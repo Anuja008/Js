@@ -10,6 +10,6 @@ let isloggedin=false//boolean
 //null
 //undefined
 //symbol=unique
-//object
+
 console.log(typeof age)
 console.log(typeof null)
